@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It create a .git folder and begin track file change when checkin.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You can segment changed files in different commit or commit what you have completed.
+
+
