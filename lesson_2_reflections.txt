@@ -26,3 +26,9 @@ It show where everything is even if they are apart.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The branches are merged to become the new master. To combine them.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto : Pro, less time cosuming, show where conflict are.
+Manual : Cons, take a long time to look at code and copy/paste them.
