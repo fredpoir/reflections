@@ -11,3 +11,8 @@ You can segment changed files in different commit or commit what you have comple
 How can you use the staging area to make sure you have one commit per logical change?
 
 You ca add the file you want in the staging area even if others files have been modified.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+To develop a new feature. It seperate the main stream from the feature one.
