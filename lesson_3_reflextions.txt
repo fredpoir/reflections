@@ -19,3 +19,8 @@ Branch is to manage new feature and new changes possible.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can compare change done.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Each one would have to build their part of the code and no user should modify the same files at the same time.
