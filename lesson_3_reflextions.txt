@@ -24,3 +24,8 @@ You can compare change done.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Each one would have to build their part of the code and no user should modify the same files at the same time.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+With colaboration you should use branch to make large change and see if it's still fit with others work.
